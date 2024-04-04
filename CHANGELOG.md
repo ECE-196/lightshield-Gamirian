@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## April 4nd, 2024
+## April 4th, 2024
 ### Contributors
 Garno Amirian
 
